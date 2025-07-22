@@ -1,3 +1,5 @@
+AtliQ Mart – Festival Promotions Analysis
+
 Business Context
 AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All their 50 stores ran a massive promotion during Diwali 2023 and Sankranti 2024 on their AtliQ branded products. These promotions aimed to boost sales and enhance customer engagement during significant cultural celebrations. The Sales Director, Bruce Haryali, requires insights into which promotions performed well and which ones fell short to optimize future promotional efforts.
 
